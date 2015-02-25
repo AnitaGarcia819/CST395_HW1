@@ -34,7 +34,7 @@ public class App
     }
 
     public static void main( String[] args ) throws Exception {
-        String targetName = "Mariangarcia@csumb.edu";
+        String targetName = "mariangarcia@csumb.edu";
         long assignmentNumber = Long.valueOf(1);
 
         List<String> names = new ArrayList<String>();
